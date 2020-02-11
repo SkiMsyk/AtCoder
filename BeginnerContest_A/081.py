@@ -1,0 +1,1 @@
+print(sum(1 if e == '1' else 0 for e in input()))
