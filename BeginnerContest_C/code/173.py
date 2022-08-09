@@ -16,4 +16,4 @@ for _ in range(1<<(H+W)):
 
 print(ans)
     
-    
+    

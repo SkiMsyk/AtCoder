@@ -2,7 +2,7 @@ import os
 import itertools
 from pathlib import Path
 
-A = [0, 1]
+A = [0, 1, 2, 3]
 B = list(range(10))
 C = list(range(10))
 
