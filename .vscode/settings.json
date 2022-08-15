@@ -3,5 +3,6 @@
         "iostream": "cpp",
         "istream": "cpp"
     },
-    "python.linting.pylintEnabled": true
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false
 }

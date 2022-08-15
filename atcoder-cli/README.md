@@ -27,5 +27,5 @@ $ oj t -c "python3 main.py" -d tests/
 # submit
 
 ```
-$ acc submit
+$ acc submit main.py
 ```
